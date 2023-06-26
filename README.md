@@ -1,7 +1,3 @@
-# CelebritySearchApp
-
-Sure! Here's a detailed README file in markdown format for your Celebrity Search app using OpenAI and Langchain:
-
 # Celebrity Search App
 
 The Celebrity Search App is a web application that allows users to search for information about celebrities. It utilizes the OpenAI API and the Langchain library to generate natural language responses based on user inputs.
